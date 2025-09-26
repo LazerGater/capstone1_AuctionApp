@@ -26,5 +26,7 @@ All users will be assumed to be equal in that they can login, create an account,
 - University of Dayton Professors
 # System Analysis
 ## Data Flow Diagram
+![Data Flow Diagram](./frontend/src/assets/Flow_diagram.drawio.png)
+
 ## Entity Relationship Diagram
 
