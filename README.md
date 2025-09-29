@@ -41,8 +41,8 @@ All users will be assumed to be equal in that they can login, create an account,
 
 ## Data Flow Diagram
 
-![Data Flow Diagram](./Flow_diagram.drawio.png)
+![Data Flow Diagram](./drawio/Flow_diagram.drawio.png)
 
 ## Entity Relationship Diagram
 
-![Entity Relationship Diagram](./Entity_Relationship_Diagram.png)
+![Entity Relationship Diagram](./drawio/Entity_Relationship_Diagram.png)
